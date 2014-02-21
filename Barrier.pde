@@ -1,3 +1,7 @@
-int position;
-
-
+public class Barrier {
+ 
+ public Barrier() {
+   
+ }
+  
+}
